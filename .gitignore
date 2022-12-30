@@ -1,0 +1,11 @@
+# VSCode
+.vocode
+
+# CMake
+cmake-build-*/
+build/
+
+# ESP-IDF
+sdkconfig.old
+sdkconfig
+dependencies.lock
